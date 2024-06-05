@@ -1,0 +1,5 @@
+.hero_banner{
+    background-image: url("../public/skyImage.jpg");
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
